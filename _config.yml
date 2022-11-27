@@ -183,8 +183,8 @@ defaults:
 # paginate: 5
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+disqus:
+   shortname: "hyni03"
 
 # Gitment comments
 # gitment:
@@ -218,7 +218,3 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-comment:
-  provider: "disqus"
-  disqus:
-    shortname: "My blog"
