@@ -49,3 +49,10 @@
   - PAGE_URL과 PAGE_INDENTIFIER 수정
   - 댓글을 허용하고 싶은 곳에 "comments: true"로 지정
 
+<br>
+
+6. favicon 설정
+  - favicon 이미지 만들기
+  - views/head.html 에 다음과 같이 입력
+    > <link rel="icon" href="/image/favicon.png">
+
