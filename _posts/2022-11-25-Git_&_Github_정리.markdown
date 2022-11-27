@@ -18,7 +18,7 @@ banner:
   subheading_style: "color: gold"
 tags: Git Github
 sidebar: []
-comments: True
+comments: true
 ---
 
 ## Git
