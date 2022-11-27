@@ -156,8 +156,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "Eunji's Homepage"
+#     subheading: "Github와 Jekyll을 이용한 나만의 블로그 만들기"
 #     banner: "Your image url"
 
 # Banner default settings
