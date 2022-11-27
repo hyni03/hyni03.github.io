@@ -36,3 +36,16 @@
   - 밑에 원하는 글 작성
   - 원격 저장소에 수정사항 반영
 
+<br>
+
+5. 댓글 기능 추가하기
+  - Disqus 가입 & 홈페이지 메인 화면 GET START 클릭
+  - 홈페이지에 댓글 기능 추가하기 위해 "I wnat to install Disqus on my site" 선택
+  - 홈페이지 세팅하기
+  - config.yml에 disqus 입력하기
+      > disqus:
+      >   shortname: "disqus username"
+  - _layouts/post.html에 disqus 홈페이지에서 Universal Code를 복사해서 페이지에 맞게 수정 후 붙여넣기
+  - PAGE_URL과 PAGE_INDENTIFIER 수정
+  - 댓글을 허용하고 싶은 곳에 "comments: True"로 지정
+  
