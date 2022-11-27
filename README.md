@@ -54,5 +54,4 @@
 6. favicon 설정
   - favicon 이미지 만들기
   - views/head.html 에 다음과 같이 입력
-    > <link rel="icon" href="/image/favicon.png">
-
+    > \< link rel="icon" href="/image/favicon.png" >
