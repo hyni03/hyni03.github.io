@@ -3,7 +3,7 @@ layout: post
 title: Git & Github 정리
 subtitle: Git과 Github에 대한 간단한 정리글
 author: hyni03
-categories: jekyll
+categories: Git
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
