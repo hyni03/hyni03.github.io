@@ -62,11 +62,16 @@
   - Google Analytics 가입하고 블로그 주소 등록하기
   - tracking ID 찾기
   - _config.yml 수정하기
-    > #Analytics <br>
-    > analytics:
-    >   > porvider: "google-gtag" <br>
-    >   > google:
-    >   >   > tracking_id: "tracking_ID" <br>
-    >   >   > anonymize_ip: # true, fasle(default)
-    
+    ```sh
+    # Analytics
+    analytics:
+      provider: "google-gtag"
+      google:
+        tracking_id: "측정ID"
+        anonymize_ip: #true, false (default)
+    ```
+  - _includes 폴더에 analytics.html 파일 추가
+  - analytics.html에 홈페이지에서 태그 설치 관련 js 코드 복사, 붙여넣기
+  - /_layouts/defaults.html에 코드 추가하기
+    > {% include analytics.html %} 
   - 블로그 접속 시 google analytics에 방문자 수 카운팅됨 
