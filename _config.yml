@@ -187,11 +187,7 @@ disqus:
   shortname: "my-blog-zcq8rrgfkz"
 
 #google Analytics
-analytics:
-  provider: "google-gtag"
-  google: 
-    tracking_id: "G-9JDJSLD96W"
-    anonymize_ip: # true, false (default)
+google_analytics: "G-9JDJSLD96W"
 
 # Gitment comments
 # gitment:
