@@ -186,6 +186,15 @@ defaults:
 disqus:
   shortname: "my-blog-zcq8rrgfkz"
 
+#google Analytics
+analytics:
+  provider: "google-gtag"
+            # false (defalut), "google", "google-universal", "google-gtag", "custom"
+
+  google: 
+    tracking_id: "G-9JDJSLD96W"
+    anonymize_ip: # true, false (default)
+
 # Gitment comments
 # gitment:
 #   username: "Your GitHub username"
