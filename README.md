@@ -38,7 +38,7 @@
 
 <br>
 
-5. 댓글 기능 추가하기
+5. 댓글 기능 추가하기 (선택과제)
   - Disqus 가입 & 홈페이지 메인 화면 GET START 클릭
   - 홈페이지에 댓글 기능 추가하기 위해 "I wnat to install Disqus on my site" 선택
   - 홈페이지 세팅하기
@@ -51,7 +51,22 @@
 
 <br>
 
-6. favicon 설정
+6. favicon 설정 (선택과제)
   - favicon 이미지 만들기
   - views/head.html 에 다음과 같이 입력
     > \< link rel="icon" href="/image/favicon.png" >
+
+<br>
+
+7. google analytics 설정하기 (선택과제)
+  - Google Analytics 가입하고 블로그 주소 등록하기
+  - tracking ID 찾기
+  - _config.yml 수정하기
+    > #Analytics <br>
+    > analytics: <br>
+    >   porvider: "google-gtag" <br>
+    >   google: <br>
+    >     tracking_id: "tracking_ID"
+    >     anonymize_ip: # true, fasle(default)
+  - 블로그 접속 시 google analytics에 방문자 수 카운팅됨 
+  
