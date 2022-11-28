@@ -115,7 +115,7 @@ _layouts 폴더에 있는 default.html의 body 맨 마지막에 다음 코드 �
 {% include analytics.html %}
 ```
 
-<br>
+<br><br>
 
 3.config.yml 수정하기
 <br>
@@ -134,7 +134,7 @@ analytics:
 
 <br>
 
-위에 과정들을 다 완료하면 블로그와 analytics가 정상적으로 연결됐을 것입니다.
+위에 과정들을 다 완료하면 블로그와 analytics가 정상적으로 연결됐을 것입니다. <br>
 다시 analytics에 접속해보면 방문자 수가 카운팅됩니다.
 
 > ![1-9. 측정 완료](/image/1-9.%20%EC%B8%A1%EC%A0%95%20%EC%99%84%EB%A3%8C.png)
