@@ -115,7 +115,7 @@ _layouts 폴더에 있는 default.html의 body 맨 마지막에 다음 코드 �
 {% include analytics.html %}
 ```
 
-<br><br>
+<br>
 
 3.config.yml 수정하기
 <br>
