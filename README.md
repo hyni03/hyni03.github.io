@@ -63,9 +63,9 @@
   - tracking ID 찾기
   - _config.yml 수정하기
     > #Analytics <br>
-    > analytics: <br>
+    > analytics:
     >   > porvider: "google-gtag" <br>
-    >   > google: <br>
+    >   > google:
     >   >   > tracking_id: "tracking_ID" <br>
     >   >   > anonymize_ip: # true, fasle(default)
   - 블로그 접속 시 google analytics에 방문자 수 카운팅됨 
