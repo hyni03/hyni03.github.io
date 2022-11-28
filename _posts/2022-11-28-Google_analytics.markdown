@@ -1,7 +1,7 @@
 ---
 layout: post
-title: gitblog에 Google analytics 설정하는 방법
-subtitle: 방문자 수 카운팅 google analytics Github 홈페이지에 적용하는 방법 설명
+title: gitblog에 Google analytics 설정하기
+subtitle: google analytics를 Github 홈페이지에 적용하는 방법에 대한 설명글
 author: hyni03
 categories: analytics
 banner:
